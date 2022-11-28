@@ -23,8 +23,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -37,8 +36,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -51,8 +49,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -78,8 +75,7 @@
       "name": "purchase",
       "outputs": [],
       "stateMutability": "payable",
-      "type": "function",
-      "payable": true
+      "type": "function"
     }
   ],
   "metadata": "{\"compiler\":{\"version\":\"0.8.11+commit.d7f03943\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"name\":\"donutBalances\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"getVendingMachineBalance\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"owner\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"purchase\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"restock\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/VendingMachine.sol\":\"VendingMachine\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/VendingMachine.sol\":{\"keccak256\":\"0x5b607563ff2ea9f2b813382d13e5aba87f517ae1aa77827ee0b09ab977e63d75\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://73ea8c5154ec2936ee96a9682313dde2cbf4ae24de1acf0eb36a92f4365839eb\",\"dweb:/ipfs/QmbgB82kXezZPnaf1gEPcEm3opnBr9XUrta4FEWLAwnyFG\"]}},\"version\":1}",
@@ -4631,8 +4627,7 @@
     }
   },
   "schemaVersion": "3.4.11",
-  "updatedAt": "2022-11-28T12:04:56.126Z",
-  "networkType": "ethereum",
+  "updatedAt": "2022-11-28T14:43:46.691Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
