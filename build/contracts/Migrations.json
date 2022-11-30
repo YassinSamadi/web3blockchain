@@ -2061,10 +2061,16 @@
       "links": {},
       "address": "0x7AD406747E557B62c2202540239A72b97635d9B7",
       "transactionHash": "0xab9aa74cd8d1d13617c5cb76b667d4b8dd4953bd47c4853147ea9d2628fd02fd"
+    },
+    "1669829549084": {
+      "events": {},
+      "links": {},
+      "address": "0xfFaf8601e2C5002ed8383dBf8aA1ACb8F432B957",
+      "transactionHash": "0x0e42884755bcb0b736118ae4403eb993014eb960383b79bb8b29ca45d63619e5"
     }
   },
   "schemaVersion": "3.4.11",
-  "updatedAt": "2022-11-30T15:49:44.860Z",
+  "updatedAt": "2022-11-30T17:40:28.753Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
