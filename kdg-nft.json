@@ -1,9 +1,10 @@
 {
     "name": "Kdg NFT",
     "description": "This is the logo of KDG",
-    "image": "https://kdg-nft.infura-ipfs.io/ipfs/QmQDxFxGqXJdKGSr2MC9AFcUwx9MJK6PFNHbqxkaq6DdRe",
+    "image": "https://kdg-nft.infura-ipfs.io/ipfs/QmbjTigUH2kssJDgoijKcB1mJdSLpFRNeBtK1GGviBUvSn",
     "attributes": [
-      { "trait_type": "kdg", "value": "logo picture"},
-      { "trait_type": "event", "value": "Yassin 2022"}
+      { "trait_type": "kdg", "value": ["1st value" ,"2nd value"]},
+      { "trait_type": "Badge", "value": "Gold"},
+      { "trait_type": "Course", "value": "Back end"}
     ]
   }
