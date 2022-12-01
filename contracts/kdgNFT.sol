@@ -11,7 +11,7 @@ contract kdgNFT is ERC721URIStorage, Ownable {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
 
-    constructor() ERC721("My kdg NFT", "NFT") {}
+    constructor() ERC721("Yassin Collection", "NFT") {}
 
     function mintNFT(address recipient, string memory tokenURI)
         public
